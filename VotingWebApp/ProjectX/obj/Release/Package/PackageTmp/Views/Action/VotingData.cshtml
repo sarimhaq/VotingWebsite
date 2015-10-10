@@ -1,0 +1,165 @@
+﻿@model ProjectX.Models.VotingData
+
+@{
+    ViewBag.Title = "Cast Your Vote!";
+}
+
+<h2>Cast Your Vote!</h2>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+     
+        <hr />
+        @*@Html.ValidationSummary(true, "", new { @class = "text-danger" })*@
+
+        <div class="form-group">
+            <h3 class="control-label col-md-2">Company Name</h3>
+
+            <br />
+            <br />
+
+           
+                <div  class="col-md-2">
+                    <select class="form-control" id="CompanyName" name="CompanyName" >
+                        @*<option value="Spectiva">Spectiva</option>
+                        <option value="MedicalPlace">Medical Place</option>
+                        <option value="HuveeInc">Huvee Inc.</option>
+                        <option value="VeeData">VeeData</option>
+                        <option value="BRISSConsulting">BRISS Consulting</option>
+                        <option value="EatFreshVending">Eat-Fresh Vending</option>
+                        <option value="FuNLifePastryStudio">FuNLife Pastry Studio</option>
+                        <option value="ReFabricana">ReFabricana</option>
+                        <option value="FantasyFootballDraftPros">Fantasy Football Draft Pros</option>
+                        <option value="WhatsNext">What's Next</option>
+                        <option value="VirtualMall">Virtual Mall</option>
+                        <option value="VOICE">VOICE</option>
+                        <option value="BoxOSox">Box O' Sox</option>
+                        <option value="Avicenna">Avicenna</option>
+                        <option value="SKIPP">SKIPP</option>
+                        <option value="Reno">Reno</option>*@
+                        
+                        <option value="ignore">Select A Company</option>
+
+                        @foreach (var company in  ViewBag.CompanyNames )
+                        {
+                            <option value=@company>@company</option>
+                        }
+
+
+
+                    </select>
+                </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.Clarity, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="radio-inline">
+                    @Html.RadioButtonFor(model => model.Clarity, "1")Muddy
+                </div>
+                <div class="radio-inline">
+                    @Html.RadioButtonFor(model => model.Clarity, "2")Somewhat Clear
+                </div>
+                <div class="radio-inline">
+                    @Html.RadioButtonFor(model => model.Clarity, "3")Clear
+                </div>
+                <div class="radio-inline">
+                    @Html.RadioButtonFor(model => model.Clarity, "4")Very Clear
+                </div>
+                @*<div class="radio-inline">
+                        @Html.ValidationMessageFor(model => model.Clarity, "", new { @class = "text-danger" })
+                    </div>*@
+            </div>
+        </div>
+
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Content, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="radio-inline">
+                    @Html.RadioButtonFor(model => model.Content, "1")Poor
+                </div>
+                <div class="radio-inline">
+                    @Html.RadioButtonFor(model => model.Content, "2")Alright
+                </div>
+                <div class="radio-inline">
+                    @Html.RadioButtonFor(model => model.Content, "3")Good
+                </div>
+                <div class="radio-inline">
+                    @Html.RadioButtonFor(model => model.Content, "4")Excellent
+                </div>
+
+
+
+
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Delivery, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="radio-inline">
+                    @Html.RadioButtonFor(model => model.Delivery, "1")Wanted To Kill Myself
+                </div>
+                <div class="radio-inline">
+                    @Html.RadioButtonFor(model => model.Delivery, "2")Bleh
+                </div>
+                <div class="radio-inline">
+                    @Html.RadioButtonFor(model => model.Delivery, "3")Engaging
+                </div>
+                <div class="radio-inline">
+                    @Html.RadioButtonFor(model => model.Delivery, "4")Did Steve Jobs Came Back To Life?
+                </div>
+
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Comment, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Comment, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Comment, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+
+
+    </div>
+
+
+
+    <div id="formSection" class="form-group col-md-offset-2 col-md-10">
+        @*@using (Ajax.BeginForm(new AjaxOptions { HttpMethod = "post", InsertionMode = InsertionMode.Replace, UpdateTargetId = "formSection" }))
+        {*@
+        <form method="post" id="submitform">
+            <input type="submit" value="Create" class="btn btn-default" id="thebutton" />
+        </form>
+        @*}*@
+    </div>
+
+    @section scripts {
+        <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+<script>
+    $('#submitform').submit(function (e) {
+       
+        $.post('')
+            .done(function () {
+                $("#CompanyName option:selected").remove();
+                
+
+            });
+        e.preventDefault();
+
+    });
+</script>
+
+
+    }
+
+
+}
+<div>
+    @Html.ActionLink("Back to List", "PostSummary", "Action")
+</div>

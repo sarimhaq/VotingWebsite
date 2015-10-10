@@ -1,0 +1,80 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<section class="fullon">
+
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+
+        @*<ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>*@
+
+        <div class="carousel-inner">
+            <div class="item active">
+                <img src="@Url.Content("~/content/Cover.jpg")" style=" width:100%" data-src="holder.js/900x500/auto/#7cbf00:#fff/text: " alt="First slide">
+                <div class="container">
+                 
+                </div>
+            </div>
+            @*<div class="item">
+                <img src="http://lorempixel.com/1200/400/people/" style="width:100%" data-src="" alt="Second slide">
+                <div class="container">
+                    <div class="carousel-caption">
+                        <h1>
+                            We can't help everyone, but everyone can help someone.
+                        </h1>
+                        <p>Ronald Reagan</p>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <img src="http://lorempixel.com/1200/400/sports/" style="width:100%" data-src="" alt="Third slide">
+                <div class="container">
+                    <div class="carousel-caption">
+                        <h1>
+                            Earn Points
+                        </h1>
+                        <p>The Higher the Points, the Higher You are!</p>
+                    </div>
+                </div>
+            </div>*@
+        </div>
+
+        @*<a class="left carousel-control" href="#myCarousel" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left"></span>
+        </a>
+
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right"></span>
+        </a>*@
+
+    </div>
+
+    </section>
+
+    <div class="row center-block">
+        <div class="col-md-4 col-md-offset-4">
+            <h2 class="text-center">Getting started</h2>
+            <p >
+               This website is as simple as it can be. Register yourself first. All the relevent functions are
+                in the top row. Remebmer, you can vote for a company only once. The website wont stop you from 
+                revoting; it will just update your previous score along with the comments. There is a certain
+                degree of anonymity associated with the exchange of data. So don't hold back your critique. Let it flow.
+                Peace Out. 
+            </p>
+            <p class="text-center"><a class="btn btn-default" href="@Url.Action("VotingData", "Action")"> Vote Now! &raquo;</a></p>
+        </div>
+       
+    </div>
+
+    @section scripts {
+
+        <script>
+            $('.carousel').carousel({
+                interval: 4000 //changes the speed
+            })
+        </script>
+    }

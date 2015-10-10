@@ -1,0 +1,122 @@
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\ProjectX.dll.config
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\ProjectX.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\ProjectX.pdb
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Antlr3.Runtime.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\EntityFramework.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\EntityFramework.SqlServer.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.Owin.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.Owin.Security.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.Owin.Security.Google.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.Web.Infrastructure.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Newtonsoft.Json.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Owin.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\System.Web.Helpers.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\System.Web.Mvc.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\System.Web.Optimization.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\System.Web.Razor.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\System.Web.WebPages.Deployment.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\System.Web.WebPages.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\System.Web.WebPages.Razor.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\WebGrease.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\System.Web.Helpers.xml
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\System.Web.Mvc.xml
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\System.Web.Optimization.xml
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\System.Web.Razor.xml
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\System.Web.WebPages.xml
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\System.Web.WebPages.Deployment.xml
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\System.Web.WebPages.Razor.xml
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Antlr3.Runtime.pdb
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Newtonsoft.Json.xml
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\EntityFramework.xml
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\EntityFramework.SqlServer.xml
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.Owin.xml
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.Owin.Security.xml
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.Owin.Security.Google.xml
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\obj\Debug\ProjectX.csprojResolveAssemblyReference.cache
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\obj\Debug\ProjectX.dll
+c:\users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\obj\Debug\ProjectX.pdb
+C:\Users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\obj\Debug\ProjectX.Migrations.InitialCreate.resources
+C:\Users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\obj\Debug\ProjectX.csproj.GenerateResource.Cache
+C:\Users\sarim\documents\visual studio 2013\Projects\ProjectX\ProjectX\obj\Debug\ProjectX.Migrations.New.resources
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX\ProjectX\obj\Debug\ProjectX.Migrations.Current.resources
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\ProjectX.dll.config
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\ProjectX.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\ProjectX.pdb
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Antlr3.Runtime.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\EntityFramework.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\EntityFramework.SqlServer.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.Owin.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.Owin.Security.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Newtonsoft.Json.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Owin.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\System.Web.Helpers.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\System.Web.Mvc.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\System.Web.Optimization.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\System.Web.Razor.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\System.Web.WebPages.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\System.Web.WebPages.Razor.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\WebGrease.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\EntityFramework.xml
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\EntityFramework.SqlServer.xml
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Newtonsoft.Json.xml
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\System.Web.Helpers.xml
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\System.Web.Mvc.xml
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\System.Web.Optimization.xml
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\System.Web.Razor.xml
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\System.Web.WebPages.xml
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\System.Web.WebPages.Razor.xml
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Antlr3.Runtime.pdb
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.Owin.xml
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.Owin.Security.xml
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\obj\Debug\ProjectX.csprojResolveAssemblyReference.cache
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\obj\Debug\ProjectX.Migrations.InitialCreate.resources
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\obj\Debug\ProjectX.Migrations.New.resources
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\obj\Debug\ProjectX.Migrations.Current.resources
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\obj\Debug\ProjectX.csproj.GenerateResource.Cache
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\obj\Debug\ProjectX.dll
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\obj\Debug\ProjectX.pdb
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\obj\Debug\ProjectX.Migrations.Sarim.resources
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\obj\Debug\ProjectX.Migrations.Sarim1.resources
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\obj\Debug\ProjectX.Migrations.votingsys.resources
+C:\Users\sarim\Documents\visual studio 2013\Projects\ProjectX - Copy\ProjectX\obj\Debug\ProjectX.Migrations.ComanyName.resources
